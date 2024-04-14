@@ -1,0 +1,1 @@
+import{a as i}from"./chunk-2F3OGYFC.js";import{Db as r,ba as n,jb as a}from"./chunk-TFWANT4X.js";var d=(()=>{let e=class e{};e.\u0275fac=function(o){return new(o||e)},e.\u0275cmp=n({type:e,selectors:[["app-home"]],standalone:!0,features:[r],decls:1,vars:0,template:function(o,s){o&1&&a(0,"app-hero")},dependencies:[i]});let t=e;return t})();export{d as default};
